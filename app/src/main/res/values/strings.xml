@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraConSpinner</string>
+    <string name="titulo">Calculadora</string>
+    <string name="numeroA">Ingrese el Primer Numero</string>
+    <string name="numeroB">Ingrese el Segundo Numero</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="suma">Suma</string>
+</resources>
