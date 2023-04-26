@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         String []select = {"Sumar","Restar","Multiplicar","Dividir"};
 
-        ArrayAdapter <String> seleccionOpciones = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1,select);
+        ArrayAdapter <String> seleccionOpciones = new ArrayAdapter<>(this, R.layout.spinner_item_color,select);
 
         seleccion.setAdapter(seleccionOpciones);
     }
